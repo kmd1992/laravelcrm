@@ -1,0 +1,14 @@
+{
+    "name": "MediaLibrary",
+    "alias": "medialibrary",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\MediaLibrary\\Providers\\MediaLibraryServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
